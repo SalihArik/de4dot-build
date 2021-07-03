@@ -3,6 +3,11 @@ Build
 
 This repository only exist to provide a build for de4dot (b7d5728fc0c82fb0ad758e3a4c0fbb70368a4853).
 
+* [https://github.com/Cyril-Meyer/de4dot-build/blob/master/de4dot-net35.zip](https://github.com/Cyril-Meyer/de4dot-build/blob/master/de4dot-net35.zip)
+* [https://github.com/Cyril-Meyer/de4dot-build/blob/master/de4dot-net45.zip](https://github.com/Cyril-Meyer/de4dot-build/blob/master/de4dot-net45.zip)
+* [https://github.com/Cyril-Meyer/de4dot-build/blob/master/de4dot-netcoreapp2.1.zip](https://github.com/Cyril-Meyer/de4dot-build/blob/master/de4dot-netcoreapp2.1.zip)
+* [https://github.com/Cyril-Meyer/de4dot-build/blob/master/de4dot-netcoreapp3.1.zip](https://github.com/Cyril-Meyer/de4dot-build/blob/master/de4dot-netcoreapp3.1.zip)
+
 Description
 ===========
 
